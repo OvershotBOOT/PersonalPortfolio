@@ -1,0 +1,11 @@
+.face {
+    border: solid black;
+    width: 100%;
+    height: 75%;
+}
+
+main {
+    border: solid black;
+    background-color: rgba(84, 153, 179, 0.568);
+    
+}
